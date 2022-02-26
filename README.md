@@ -18,6 +18,22 @@
   
 <br/>
 
+## PYTHON/DJANGO Developer:
+
+* Having 1 Year of experience in Python development.
+* Good knowledge in python web framework as Django.
+* Knowledge of front-end development HTML
+* Experience and Knowledge in Developing and Implementing new reusable modules according to platforms
+* problem-solving skills, communication skills, and interpersonal skills
+
+<br>
+
+## EDUCATION QUALIFICATION:
+
+* BCA from YCMOU university
+
+<br>
+
 ## Operating System:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -42,4 +58,12 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <br/>
+
+## COURSE CERTIFICATION:
+
+- Python
+- Javascript
+- HTML/CSS
+- Django
+
 
