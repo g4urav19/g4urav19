@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gaurav19patil789@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and play football very often.**
   
 <br/>
 
